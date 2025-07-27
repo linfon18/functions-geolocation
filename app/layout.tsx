@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "EdgeOne Pages Functions: Geolocation",
-  description: "An example of using EdgeOne Pages Functions with Geolocation.",
+  title: ""MCTApi_Get_GEO,
+  description: "MCT_Api based on EdgeOne,Providing function ->Get GEO & IP &Address #Tag MinecraftConnectTool",
 };
 
 export default function RootLayout({
